@@ -2,10 +2,10 @@
 PHP Store Locator
 ----------------------------------
 
-Copyright (c) 2012 cornernote, Brett O'Donnell <cornernote@gmail.com>
+Copyright (c) 2012 Brett O'Donnell <brett@mrphp.com.au>
 
-Source Code: https://github.com/cornernote/php-image-cache
-Home Page: http://mrphp.com.au/blog/image-cache-using-phpthumb-and-modrewrite
+Source Code: https://github.com/cornernote/php-store-locator
+Home Page: http://mrphp.com.au/blog/php-store-locator
 
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
 
